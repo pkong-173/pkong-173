@@ -16,7 +16,7 @@
       <i> <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f98b.png" width="18" alt="🦋"> <strong>FOLLOW THE HEART</strong> <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f98b.png" width="18" alt="🦋"> </i>
       <br/><br/>
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=KraLurmumcoelcarix-173&theme=tokyonight&column=2&row=2&margin-w=6&margin-h=6" alt="trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=pkong-173&theme=tokyonight&column=2&row=2&margin-w=6&margin-h=6" alt="trophies" />
       </a>
       <br/><br/>
       <img src="DS.png" alt="DSDEN" width="300" />
@@ -30,12 +30,12 @@
 <img src="neon_divider.svg" width="100%" alt="" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KraLurmumcoelcarix-173&layout=compact&langs_count=8&hide_border=true&bg_color=0d0420&title_color=ff2e97&text_color=e6e6fa&border_radius=12" height="165" alt="most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkong-173&layout=compact&langs_count=8&hide_border=true&bg_color=0d0420&title_color=ff2e97&text_color=e6e6fa&border_radius=12" height="165" alt="most used languages" />
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KraLurmumcoelcarix-173/KraLurmumcoelcarix-173/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/KraLurmumcoelcarix-173/KraLurmumcoelcarix-173/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pkong-173/pkong-173/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/pkong-173/pkong-173/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <img src="neon_divider.svg" width="100%" alt="" />
